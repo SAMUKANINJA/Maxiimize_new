@@ -1832,4 +1832,9 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+  .col-lg-ss {
+    flex: 0 0 auto;
+    width: auto;
+    height: auto;
+  }
 }
